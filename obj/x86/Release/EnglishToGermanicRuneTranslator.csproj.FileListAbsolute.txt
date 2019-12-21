@@ -1,0 +1,2 @@
+/home/matt/Projects/EnglishToGermanicRuneTranslator/EnglishToGermanicRuneTranslator/bin/Release/EnglishToGermanicRuneTranslator.exe
+/home/matt/Projects/EnglishToGermanicRuneTranslator/EnglishToGermanicRuneTranslator/obj/x86/Release/EnglishToGermanicRuneTranslator.exe
